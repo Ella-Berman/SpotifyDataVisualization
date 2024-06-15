@@ -1,0 +1,10 @@
+name: spotifyshiny
+title:
+username: ella-berman
+account: ella-berman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12183546
+bundleId: 8743610
+url: https://ella-berman.shinyapps.io/spotifyshiny/
+version: 1
