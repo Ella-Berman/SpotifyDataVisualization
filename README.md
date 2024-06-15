@@ -1,4 +1,5 @@
 Spotify Data Visualization (Data Science Project)
+
 Skills: R, R Shiny, plotly, ggplot
 
 Goal: Allow people to explore Spotify data (from Kaggle) involving their favorite Spotify artists/songs
